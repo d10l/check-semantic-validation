@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<INSIGMA>
+    <AktuarMed>
+        <RequestID>XML-Aktuarmed</RequestID>
+        <CaseDescription>
+            <CaseDate>
+                <Date>
+                    <Year>2022</Year>
+                    <Month>4</Month>
+                    <Day>1</Day>
+                </Date>
+            </CaseDate>
+            <Person>
+                <PersonID>1</PersonID>
+                <ContractID>5280344572</ContractID>
+                <Diopters>0</Diopters>
+                <PregnantMonth>0</PregnantMonth>
+                <Age>28</Age>
+                <Height Unit="cm">180</Height>
+                <Weight Unit="kg">80</Weight>
+                <Gender>
+                    <Value>1</Value>
+                </Gender>
+                <Profession>
+                    <Value/>
+                    <ProfessionStatus>
+                        <Value/>
+                    </ProfessionStatus>
+                </Profession>
+            </Person>
+            <ProductInput>
+                <Name>RKEXPS</Name>
+                <ProductChange>
+                    <Value>1</Value>
+                </ProductChange>
+                <SpecialAgreement>
+                    <Value>0</Value>
+                </SpecialAgreement>
+                <SupersededProductName>0</SupersededProductName>
+                <TotalLoading>0</TotalLoading>
+                <MustBeContracted>
+                    <Value>0</Value>
+                </MustBeContracted>
+                <ExternalData>
+                    <TpNr>2fa045e0-b19c-11ec-9ef1-54e0fef29d07</TpNr>
+                </ExternalData>
+            </ProductInput>
+        </CaseDescription>
+    </AktuarMed>
+</INSIGMA>

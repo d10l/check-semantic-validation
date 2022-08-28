@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Anamnesis>
+	<ICD></ICD>
+	<Name></Name>
+	<Mastertext></Mastertext>
+	<AnamnesisInputs>
+		<AnamnesisStatus>
+			<Value></Value>
+		</AnamnesisStatus>
+		<FromDay>
+			<Date>
+				<Year></Year>
+				<Month></Month>
+				<Day></Day>
+			</Date>
+		</FromDay>
+		<UntilDay>
+			<Date>
+				<Year></Year>
+				<Month></Month>
+				<Day></Day>
+			</Date>
+		</UntilDay>
+	</AnamnesisInputs>
+</Anamnesis>
